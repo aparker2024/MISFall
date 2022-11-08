@@ -1,0 +1,3 @@
+char[] alphabet = "abcdefghijklmnopqrstuvwxyz"
+
+char[] line = "abcdefghijklmnopqrstuvwxyz'.T
